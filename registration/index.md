@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# Registration
-
 Here you can register for the conference
 
 
