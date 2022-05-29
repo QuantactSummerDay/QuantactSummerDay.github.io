@@ -1,0 +1,98 @@
+title: Quantact SummerDay 2022
+preposition: ''
+description: >-
+  Coming Soon
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://QuantactSummerDay.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - .github/
+  - venv/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - screenshot.png
+  - jekyll-theme-conference.gemspec
+  - purgecss.config.js
+  - _config.example.yml
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+# Theme default values
+conference:
+  lang: en
+  show_errors: True
+  navigation:
+    logo:
+      name: Quantact
+      # img: ''
+      url: 'http://quantact.uqam.ca/'
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: How to get there
+        relative_url: /location/
+      - name: Registration
+        relative_url: /registration/
+  
+  map:
+    default_zoom: 17
+    home_coord: 45.49489, -73.577952
+    map_provider: "OpenStreetMap.Mapnik"
+
+  link_preview:
+    disable: false
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Talk
+        color: info
+      - name: Keynote
+        color: danger
+      - name: Social
+        color: success	
+
+  speakers:
+    show_firstname: true
+
+  location:
+    url: '/location'
+    map: true
+
+  program:
+    url: '/program'
+    time_steps: 15
+    show_alltimes: true
