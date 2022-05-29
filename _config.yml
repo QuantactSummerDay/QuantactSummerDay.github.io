@@ -84,6 +84,8 @@ conference:
         color: danger
       - name: Social
         color: success	
+      - name: Arrival
+        color: light
 
   speakers:
     show_firstname: true

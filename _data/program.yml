@@ -5,7 +5,7 @@ days:
   rooms:
   - name: Room A
     talks:
-      - name: 
+      - name: Arrival
         time_start: '09:00'
         time_end: '09:30'
       - name: Keynote
