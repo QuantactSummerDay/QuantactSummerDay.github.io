@@ -1,7 +1,8 @@
 ---
 layout: home
+title: Quantact SummerDay
 ---
-### English 
+__English__
 (Le français suit)
 
 The Quantact SummerDay 2022 invites students and professors alike for a day dedicated to the mathematics of finance and actuarial sciences. It aims to foster collaboration across the different universities and various research directions. 
@@ -12,9 +13,9 @@ Participation is free but a [registration](/registration/) is required.
 
 
 
-### Français
+__Français__
 Le Quantact SummerDay 2022 invite toutes et tous les étudiants et les professeurs à une journée consacrée aux mathématiques financières et actuarielles. La journée vise à encourager la collaboration entre les différentes universités et les divers champs de recherche. Nous avons l'honneur d'inaugurer la journée par une Keynote de [Silvana Pesenti](https://www.statistics.utoronto.ca/people/directories/all-faculty/silvana-pesenti).
 
 Participez à une journée remplie de présentations intéressantes, de pauses café pour discuter et d'une chance unique de nouer des liens avec vos pairs!
 
-La participation est gratuite mais une [inscription](/registration/) est requise.
+La participation est gratuite mais une 	[inscription](/registration/) est requise.
