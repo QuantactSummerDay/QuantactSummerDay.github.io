@@ -2,5 +2,11 @@
 ---
 
 $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
-
+$color-secondary: #374F6B !default;
+$text-primary: #374F6B !default;
+$text-secondary: #374F6B !default;
+$text: #374F6B;
+$input-focus-border-color: #6D2077;
+$jumbotron: #fff;
 @import 'conference';
+$secondary: purple !default;
