@@ -1,11 +1,12 @@
 ---
-name: Presentation IIX
+name: "Individual claims reserving using activation patterns"
 speakers:
-  - MSc IV
+  - Marie Michaelides
 categories:
   - Talk
 ---
+## Individual claims reserving using activation patterns
 
-Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
-
-Justo laoreet sit amet cursus sit amet. Euismod nisi porta lorem mollis. Id ornare arcu odio ut sem. Neque aliquam vestibulum morbi blandit cursus risus. Eu volutpat odio facilisis mauris. Velit dignissim sodales ut eu sem integer. Iaculis nunc sed augue lacus viverra vitae. Dictumst vestibulum rhoncus est pellentesque. Parturient montes nascetur ridiculus mus mauris vitae.
+#### Marie Michaelides
+ 
+The occurrence of a claim often impacts not one but multiple insurance coverages provided in the contract. To account for this multivariate feature, we propose a new individual claims reserving model built around the activation of the different coverages to predict the reserve amounts. Using the framework of multinomial logistic regressions, we model the activation of the different insurance coverages for each claim and their development in the following years, i.e. the activation of other coverages in the later years and all the possible payments that might result from them. As such, the model allows us to complete the individual development of the open claims in the portfolio. Using a recent automobile dataset from a major Canadian insurance company, we demonstrate that this approach generates accurate predictions of the total reserves as well as of the reserves per insurance coverage. This allows the insurer to get better insights in the dynamics of his claims reserves.

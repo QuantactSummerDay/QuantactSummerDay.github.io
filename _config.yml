@@ -96,5 +96,5 @@ conference:
 
   program:
     url: '/program'
-    time_steps: 15
+    time_steps: 10
     show_alltimes: true

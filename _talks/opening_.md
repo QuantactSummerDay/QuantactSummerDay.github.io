@@ -1,8 +1,8 @@
 ---
-name: Lunch Break
+name: Opening
 speakers:
 categories:
-  - Social
+  - Talk
 hide: true
 ---
 

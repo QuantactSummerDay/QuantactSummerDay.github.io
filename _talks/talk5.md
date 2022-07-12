@@ -1,11 +1,14 @@
 ---
-name: Presentation II
+name: "Portfolio performance under benchmarking relative loss and portfolio insurance: from Omega ratio to loss aversion"
 speakers:
-  - PhD II
+  - Tak Wa Ng
 categories:
   - Talk
 ---
+## Portfolio performance under benchmarking relative loss and portfolio insurance: from Omega ratio to loss aversion
 
-Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
+#### Tak Wa Ng
 
-At elit omnium vel, utamur ponderum definitionem cu duo. Ex eam quot meliore. Modus admodum antiopam duo in, et esse incorrupte percipitur nec, ei facete utroque torquatos his. Ea vel moderatius cotidieque conclusionemque, noluisse menandri consetetur id pri.
+We study an optimal investment problem under a joint limited expected relative loss and portfolio insurance constraint with a general random benchmark. By making use of a static Lagrangian method in a complete market setting, the optimal wealth and investment strategy can be fully determined along with the existence and uniqueness of the Lagrangian multipliers. Our numerical demonstration for various commonly-used random benchmarks shows a trade-off between the portfolio outperformance and under-performance relative to the benchmark, which may not be captured by the widely-used Omega ratio and its utility-transformed version, reflecting the impact of the benchmarking loss constraint. Furthermore, we develop a new portfolio performance measurement indicator that incorporates the agent's utility loss aversion relative to the benchmark via solving an equivalent optimal asset allocation problem with a benchmark-reference-based preference. We show that the expected utility performance is well depicted by looking at this new portfolio performance ratio, suggesting a more suitable portfolio performance measurement under a limited loss constraint relative to a possibly random benchmark.
+
+[Link to paper](http://dx.doi.org/10.13140/RG.2.2.14948.86402)

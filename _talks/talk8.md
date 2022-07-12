@@ -1,11 +1,14 @@
 ---
-name: Presentation V
+name: "Textual representations for loss regression models"
 speakers:
-  - MSc II
+  - Amadeo Zito
 categories:
   - Talk
 ---
 
-Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
+## Textual representations for loss regression models
 
-Justo laoreet sit amet cursus sit amet. Euismod nisi porta lorem mollis. Id ornare arcu odio ut sem. Neque aliquam vestibulum morbi blandit cursus risus. Eu volutpat odio facilisis mauris. Velit dignissim sodales ut eu sem integer. Iaculis nunc sed augue lacus viverra vitae. Dictumst vestibulum rhoncus est pellentesque. Parturient montes nascetur ridiculus mus mauris vitae.
+#### Amadeo Zito
+
+ Loss prediction in insurance has always traditionally used structured data as predictors. However, now with the growing access to state-of-the-art natural language processing models, it has become much easier to use textual data to enhance loss predictions. Moreover, the narrative content of an incident description may provide sufficient detail to assess its severity. In this paper, we demonstrate a framework on different approaches to transform textual data into vector representations that can directly be used as predictors for loss regression models. This is a very recent topic in actuarial science and therefore only little literature is available on that subject. Using the presented frameworks does not require any prior knowledge of the text. We present a variety of word and contextual representation methods used in NLP for several decades. In addition, we present state-of-the-art language models that encode valuable information into numerical vectors and show how they can be utilized in regression tasks. We also explore how the length of text can impact all the different approaches. Finally, we discuss methods like SHAP values and soft-attention to interpret and understand the model predictions.
+

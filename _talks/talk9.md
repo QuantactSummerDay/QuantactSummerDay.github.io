@@ -1,11 +1,13 @@
 ---
-name: Presentation VI
+name: "Robust gamma generalized linear models with applications in actuarial science"
 speakers:
-  - MSc III
+  - Yuxi Wang
 categories:
   - Talk
 ---
 
-Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
+## Robust gamma generalized linear models with applications in actuarial science
 
-Justo laoreet sit amet cursus sit amet. Euismod nisi porta lorem mollis. Id ornare arcu odio ut sem. Neque aliquam vestibulum morbi blandit cursus risus. Eu volutpat odio facilisis mauris. Velit dignissim sodales ut eu sem integer. Iaculis nunc sed augue lacus viverra vitae. Dictumst vestibulum rhoncus est pellentesque. Parturient montes nascetur ridiculus mus mauris vitae.
+#### Yuxi Wang
+
+Generalized linear models (GLMs) form one of the most popular classes of models in statistics. This class contains a large variety of regression models, such as logistic regression and gamma GLMs. In GLMs, the response variable distribution defines an exponential family. It is well known that these models are non-robust against outliers. From a Bayesian perspective, to our knowledge, there is no robust approach specific for GLMs. By leveraging ideas from frequentist robust linear regression, we adapt original GLMs to a robust version by replacing the distribution by a similar one, but with heavier tails, which allows to gain significantly in robustness. The focus is on gamma GLMs and applications in actuarial science.

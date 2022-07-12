@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: program
 title: Program
 ---
-
-_Coming soon_
 
 <!--You can click on the talks to see the abstract or on the speakers to get more information (or get in contact) with the speakers-->
 

@@ -1,11 +1,12 @@
 ---
-name: Presentation VII
+name: "Modelling Electricity DART Spreads with Finite Mixture Models"
 speakers:
-  - PhD IV
+  - Anthony Forgetta
 categories:
   - Talk
 ---
+## Modelling Electricity DART Spreads with Finite Mixture Models
 
-Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
+#### Anthony Forgetta
 
-Justo laoreet sit amet cursus sit amet. Euismod nisi porta lorem mollis. Id ornare arcu odio ut sem. Neque aliquam vestibulum morbi blandit cursus risus. Eu volutpat odio facilisis mauris. Velit dignissim sodales ut eu sem integer. Iaculis nunc sed augue lacus viverra vitae. Dictumst vestibulum rhoncus est pellentesque. Parturient montes nascetur ridiculus mus mauris vitae.
+We propose using a dynamic finite mixture model to describe the behavior of electricity DART spreads in Long Island, a single zone in theNYISO (New York Independent System Operator). Three regimes are considered: a regular DART regime, a positive spike regime, and a negative spike regime. We therefore attempt to model both the frequency and severity of DART spread spikes,  among  other  characteristics.The  covariates  considered  include  weather  data,  load data,  and  fuel  price  data.  Our  model  can  potentially  be  used  to  develop  a  risk  management framework for power merchants. 
