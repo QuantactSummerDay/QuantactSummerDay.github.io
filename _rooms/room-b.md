@@ -1,5 +1,5 @@
 ---
-name: Lunch Room
+name: Lunch Room (H-718)
 ---
 
-A short way description on how to find the room
+The Lunch Room is just below the main conference room at H-718. See also the [description](https://www.concordia.ca/maps/sgw-campus.html?building=H)

@@ -3,7 +3,7 @@ days:
   abbr: Mo
   date: 2022-07-22
   rooms:
-  - name: Main Conference Room
+  - name: "Main Conference Room (H-820)"
     talks:
       - name: "Registration & Coffee"
         time_start: '08:50'
@@ -47,7 +47,7 @@ days:
       - name: Closing
         time_start: '16:20'
         time_end: '16:30'
-  - name: Lunch Room
+  - name: Lunch Room (H-718)
     talks:
       - name: Lunch Break
         time_start: '12:20'
