@@ -3,8 +3,7 @@ layout: program
 title: Program
 ---
 
-The conference will take place on Concordias Henry F. Hall Building. See also the [description](https://www.concordia.ca/maps/sgw-campus.html?building=H).
-
+The conference will take place at Concordia University, Henry F. Hall Building. See also the [description](https://www.concordia.ca/maps/sgw-campus.html?building=H).
 
 <!--You can click on the talks to see the abstract or on the speakers to get more information (or get in contact) with the speakers-->
 

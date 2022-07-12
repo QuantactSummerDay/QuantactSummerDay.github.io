@@ -2,7 +2,7 @@
 layout: page
 ---
 
-The conference will take place on Concordias Henry F. Hall Building. See also the [description](https://www.concordia.ca/maps/sgw-campus.html?building=H).
+The conference will take place at Concordia University, Henry F. Hall Building. See also the [description](https://www.concordia.ca/maps/sgw-campus.html?building=H).
 
 
 
