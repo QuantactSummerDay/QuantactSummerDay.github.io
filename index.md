@@ -27,3 +27,10 @@ La participation est gratuite mais une 	[inscription](/registration/) est requis
 Pour toute question, écrivez-nous un <a href="mailto:christopher.blier-wong.1@ulaval.ca"> courriel </a>
 
 
+__Your Organizing Committee__
+
+- Christopher Blier-Wong (Université Laval)
+- Ismael Afolabi Assani (Université de Montréal)
+- Marie Michaelides (Université du Québec à Montréal)
+- Philipp Ratz (Université du Québec à Montréal)
+- Roba Bairakdar (Concordia University)
