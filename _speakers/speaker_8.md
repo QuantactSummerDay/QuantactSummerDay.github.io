@@ -1,7 +1,7 @@
 ---
-name: Yuxi Wang
-first_name: Yuxi
-last_name: Wang (UdeM)
+name: Marie Michaelides
+first_name: Marie
+last_name: Michaelides (UQAM)
 hide: true
 ---
 

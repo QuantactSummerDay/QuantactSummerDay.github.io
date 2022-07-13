@@ -1,7 +1,7 @@
 ---
-name: Yuxi Wang
-first_name: Yuxi
-last_name: Wang (UdeM)
+name: Clément Aymard
+first_name: Clément
+last_name: Aymard (HEC)
 hide: true
 ---
 

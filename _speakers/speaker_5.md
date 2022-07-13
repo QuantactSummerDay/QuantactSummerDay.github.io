@@ -1,7 +1,7 @@
 ---
-name: Yuxi Wang
-first_name: Yuxi
-last_name: Wang (UdeM)
+name: Jesus Armando de Ita Solís
+first_name: Jesus Armando
+last_name: de Ita Solís (Concordia University)
 hide: true
 ---
 

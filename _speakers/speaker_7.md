@@ -1,7 +1,7 @@
 ---
-name: Yuxi Wang
-first_name: Yuxi
-last_name: Wang (UdeM)
+name: Anthony Forgetta
+first_name: Anthony
+last_name: Forgetta (Concordia University)
 hide: true
 ---
 

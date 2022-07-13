@@ -1,7 +1,7 @@
 ---
-name: Yuxi Wang
-first_name: Yuxi
-last_name: Wang (UdeM)
+name: Timothy DeLise
+first_name: Timothy
+last_name: DeLise (UdeM)
 hide: true
 ---
 

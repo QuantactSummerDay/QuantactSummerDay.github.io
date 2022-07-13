@@ -1,7 +1,7 @@
 ---
 name: "Portfolio performance under benchmarking relative loss and portfolio insurance: from Omega ratio to loss aversion"
 speakers:
-  - Tak Wa Ng
+  - Tak Wa Ng (Université Laval)
 categories:
   - Talk
 ---

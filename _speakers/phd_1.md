@@ -1,10 +1,8 @@
 ---
-name: PhD I
-first_name: PhD
-last_name: I
-links:
-  - name: Profile
-    absolute_url: https://github.com
+name: Tak Wa Ng (Université Laval)
+first_name: Tak
+last_name: Wa Ng (Université Laval)
+hide: true
 ---
 
 Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
