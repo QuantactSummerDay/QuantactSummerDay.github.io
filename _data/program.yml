@@ -14,18 +14,15 @@ days:
       - name: "Keynote: Minimal Kullback-Leibler Divergence for Constrained Levy-Ito Processes"
         time_start: '09:30'
         time_end: '10:30'
-      - name: Coffee Break
-        time_start: '10:30'
-        time_end: '11:00'
       - name: "Fast and Furious: An Intraday Analysis of Robinhood Users Trading Behavior"
         time_start: '11:00'
         time_end: '11:30'
       - name: "Portfolio performance under benchmarking relative loss and portfolio insurance: from Omega ratio to loss aversion"
         time_start: '11:30'
         time_end: '12:00'
-      - name: "Backtesting for Expectiles"
+      - name: "Double Generalized Linear Model (DGLM): Tweedie Distribution"
         time_start: '12:00'
-        time_end: '12:20'
+        time_end: '12:30'
       - name: "Vision Systems for Finance: LOB Data Augmentation"
         time_start: '13:50'
         time_end: '14:20'
@@ -35,9 +32,6 @@ days:
       - name: "Robust gamma generalized linear models with applications in actuarial science"
         time_start: '14:40'
         time_end: '15:00'
-      - name: Coffee Break II
-        time_start: '15:00'
-        time_end: '15:20'
       - name: "Modelling Electricity DART Spreads with Finite Mixture Models"
         time_start: '15:20'
         time_end: '15:50'
@@ -50,5 +44,13 @@ days:
   - name: Lunch Room (H-718)
     talks:
       - name: Lunch Break
-        time_start: '12:20'
+        time_start: '12:30'
         time_end: '13:50'
+      - name: Coffee Break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Coffee Break II
+        time_start: '15:00'
+        time_end: '15:20'
+
+

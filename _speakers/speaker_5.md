@@ -1,7 +1,7 @@
 ---
-name: Jesus Armando de Ita Solís
-first_name: Jesus Armando
-last_name: de Ita Solís (Concordia University)
+name: Raïssa Coulibaly
+first_name: Raïssa
+last_name: Coulibaly (UQAM)
 hide: true
 ---
 
