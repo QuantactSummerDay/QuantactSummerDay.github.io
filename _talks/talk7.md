@@ -6,7 +6,7 @@ categories:
   - Talk
 ---
 
-## "Vision Systems for Finance: LOB Data Augmentation"
+## Vision Systems for Finance: LOB Data Augmentation
 
 #### Timothy DeLise
 

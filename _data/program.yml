@@ -26,7 +26,7 @@ days:
       - name: "Vision Systems for Finance: LOB Data Augmentation"
         time_start: '13:50'
         time_end: '14:20'
-      - name: "Textual representations for loss regression models"
+      - name: "Fairness in insurance: Overview of discrimination-free models for specified protected attributes"
         time_start: '14:20'
         time_end: '14:40'
       - name: "Robust gamma generalized linear models with applications in actuarial science"

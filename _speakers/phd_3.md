@@ -1,7 +1,7 @@
 ---
-name: Amadeo Zito
-first_name: Amadeo
-last_name: Zito (Université Laval)
+name: Olivier Côté
+first_name: Olivier
+last_name: Côté (Université Laval)
 hide: true
 ---
 
